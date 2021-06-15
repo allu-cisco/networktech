@@ -53,5 +53,5 @@ jobs:
       with:
         app-name: 'networktech'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_21d299dc303040889c5fee6ae692cac5 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_947f5bd0729047e8becaa026c7114816 }}
         package: .
